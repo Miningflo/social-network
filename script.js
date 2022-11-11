@@ -12,7 +12,7 @@ window.onload = function (){
             container.classList.add("post")
 
             let h1 = document.createElement("h1")
-            h1.innerText = get(post, "title")
+            h1.innerText = (i+1) + ": " + get(post, "title")
             container.appendChild(h1)
 
             let aut = document.createElement("p")
