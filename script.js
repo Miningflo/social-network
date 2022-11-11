@@ -3,7 +3,9 @@ window.onload = function (){
         let parser = new DOMParser();
         let xmlDoc = parser.parseFromString(text, "text/xml");
         let posts = xmlDoc.getElementsByTagName("post")
+        console.log(posts)
         for(let post of posts){
+            console.log(post)
             let container = document.createElement("div")
             container.innerHTML = "<h1>" + get(post, "title") + "</h1>"
             let content = document.createElement("img")
@@ -18,6 +20,5 @@ window.onload = function (){
 
 
 function get(post, key){
-    console.log(post)
     return post.getElementsByTagName(key)[0].innerHTML
 }
