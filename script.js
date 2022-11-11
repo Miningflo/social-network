@@ -28,7 +28,7 @@ window.onload = function (){
 
             let desc = document.createElement("p")
             desc.classList.add("description")
-            desc.innerText = get(post, "description")
+            desc.innerText = get(post, "description").trim()
             container.appendChild(desc)
 
             document.body.appendChild(container)
