@@ -29,9 +29,9 @@ window.onload = function () {
                 }
                 if (content === "video") {
                     let pausebutton = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-                    pausebutton.setAttribute("width", "45")
-                    pausebutton.setAttribute("height", "50")
-                    pausebutton.innerHTML = '<polygon points="10,10 45,30 10,50" style="fill:white;stroke:black;stroke-width:1;fill-rule:evenodd;" />'
+                    pausebutton.setAttribute("width", "75")
+                    pausebutton.setAttribute("height", "90")
+                    pausebutton.innerHTML = '<polygon points="10,10 75,50 10,90" style="fill:white;stroke:black;stroke-width:1;fill-rule:evenodd;" />'
                     pausebutton.classList.add("pause")
                     d.appendChild(pausebutton)
 
