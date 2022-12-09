@@ -1,12 +1,12 @@
 <posts>
     <post>
-        <author>author</author>
-        <title>Banaan</title>
+        <author>straling@school</author>
+        <title>Het elektromagnetische spectrum</title>
         <content>
-            <photo>https://i.imgur.com/4gjuKtg.jpeg</photo>
+            <photo>https://i.imgur.com/2kVMdBW.png</photo>
         </content>
         <description>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Ga zelf op zoek naar informatie over het elektromagnetische spectrum en probeer de vragen in je bundel te beantwoorden.
         </description>
     </post>
 
@@ -14,11 +14,67 @@
         <author>straling@school</author>
         <title>Kooi van Faraday</title>
         <content>
-           <video>https://cdn.discordapp.com/attachments/1050820952180658187/1050820995306487919/download_1.mp4</video>
+           <video>https://i.imgur.com/r5eDuA7.mp4</video>
         </content>
         <description>
             Deze man plaats een kooi over een klassieke FM-radio. De radio stopt dan met spelen. Kan dat ook? Of is er hier meer aan de hand?
         </description>
     </post>
+    
+    <post>
+        <author>straling@school</author>
+        <title>Warmtecamera</title>
+        <content>
+           <video>https://i.imgur.com/WsHXdO5.mp4</video>
+        </content>
+        <description>
+            Op TikTok is er een "thermal camera" filter die je telefoon omtovert in een warmtecamera, werkt deze filter echt? Ga op onderzoek!
+        </description>
+    </post>
+    
+    <post>
+        <author>straling@school</author>
+        <title>Kleuren van wit licht</title>
+        <content>
+           <photo>https://i.imgur.com/8Iu2RkD.jpg</photo>
+        </content>
+        <description>
+            Uit welke kleuren bestaat wit licht? Ga op onderzoek, gebruik hiervoor een glazen prisma.
+        </description>
+    </post>
+    
+    <post>
+        <author>straling@school</author>
+        <title>Hoe goed werkt zonnecrème echt?</title>
+        <content>
+           <photo>https://i.imgur.com/1jNUP1z.jpg</photo>
+        </content>
+        <description>
+            Onderzoek of er een verschil is tussen de verschillende factoren van zonnecrème. Doe  dit door met fluostift op een blad papier te kleuren en erna zonnecrème over te smeren. Schijn erna met een UV-lamp op de zonnecrème.
+        </description>
+    </post>
+    
+    <post>
+        <author>straling@school</author>
+        <title>Medische beeldvorming</title>
+        <content>
+           <photo>https://i.imgur.com/Np7IJRL.jpg</photo>
+        </content>
+        <description>
+            [TO DO]
+        </description>
+    </post>
+    
+    <post>
+        <author>straling@school</author>
+        <title>Radioactiviteit is overal</title>
+        <content>
+           <photo>https://i.imgur.com/XZ8h0CM.jpg</photo>
+        </content>
+        <description>
+            Is radioactiviteit enkel iets van kerncentrales? Of komen we het elke dag tegen?
+        </description>
+    </post>
+    
 </posts>
 
