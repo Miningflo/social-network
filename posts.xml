@@ -1,7 +1,18 @@
 <posts>
     <post>
+        <author>testpleaseignore</author>
+        <title>YOUTUBE DEMO</title>
+        <link>https://youtu.be/H5v3kku4y6Q</link>
+        <content>
+            <photo>https://images0.persgroep.net/rcs/raVkRHVutf7_zWH7I7TPPuTUZBU/diocontent/178178177/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.8</photo>
+        </content>
+        <description>Klik op deze post om de video te bekijken</description>
+    </post>
+
+
+    <post>
         <author>straling@school</author>
-        <title>Het elektromagnetische spectrum</title>
+        <title>Dag 2: Het elektromagnetische spectrum</title>
         <content>
             <photo>https://i.imgur.com/2kVMdBW.png</photo>
         </content>
@@ -20,7 +31,7 @@
             Deze man plaats een kooi over een klassieke FM-radio. De radio stopt dan met spelen. Kan dat ook? Of is er hier meer aan de hand?
         </description>
     </post>
-    
+
     <post>
         <author>straling@school</author>
         <title>Warmtecamera</title>
@@ -31,7 +42,7 @@
             Op TikTok is er een "thermal camera" filter die je telefoon omtovert in een warmtecamera, werkt deze filter echt? Ga op onderzoek!
         </description>
     </post>
-    
+
     <post>
         <author>straling@school</author>
         <title>Kleuren van wit licht</title>
@@ -42,7 +53,7 @@
             Uit welke kleuren bestaat wit licht? Ga op onderzoek, gebruik hiervoor een glazen prisma.
         </description>
     </post>
-    
+
     <post>
         <author>straling@school</author>
         <title>Hoe goed werkt zonnecrème echt?</title>
@@ -53,7 +64,7 @@
             Onderzoek of er een verschil is tussen de verschillende factoren van zonnecrème. Doe  dit door met fluostift op een blad papier te kleuren en erna zonnecrème over te smeren. Schijn erna met een UV-lamp op de zonnecrème.
         </description>
     </post>
-    
+
     <post>
         <author>straling@school</author>
         <title>Medische beeldvorming</title>
@@ -64,7 +75,7 @@
             [TO DO]
         </description>
     </post>
-    
+
     <post>
         <author>straling@school</author>
         <title>Radioactiviteit is overal</title>
@@ -75,6 +86,6 @@
             Is radioactiviteit enkel iets van kerncentrales? Of komen we het elke dag tegen?
         </description>
     </post>
-    
+
 </posts>
 
