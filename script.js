@@ -57,6 +57,13 @@ window.onload = function () {
                 desc.innerText = get(post, "description").trim()
                 container.appendChild(desc)
 
+                if(post.getElementsByTagName("link").length > 0){
+                    let link = get(post, "link")
+                    container.onclick = () => {
+                        window.open(link)
+                    }
+                }
+
                 document.getElementById("posts").appendChild(container)
 
 
