@@ -1,13 +1,5 @@
 <posts>
-    <post>
-        <author>testpleaseignore</author>
-        <title>YOUTUBE DEMO</title>
-        <link>https://youtu.be/H5v3kku4y6Q</link>
-        <content>
-            <photo>https://m.media-amazon.com/images/M/MV5BMTUxMzU2MTk1OF5BMl5BanBnXkFtZTgwNzg4NjAwMzI@._V1_.jpg</photo>
-        </content>
-        <description>Klik op deze post om de video te bekijken</description>
-    </post>
+    
 
 
     <post>
@@ -86,6 +78,39 @@
             Is radioactiviteit enkel iets van kerncentrales? Of komen we het elke dag tegen?
         </description>
     </post>
+    
+    
+    <post>
+<author>tanjadexters</author>
+<title>reclame</title>
+<content>
+<photo>https://www.instagram.com/p/ClA3xRYDDg0/</photo>
+</content>
+<description>
+Tanja Dexters oefent hier een vorm van reclame uit.
+</description>
+</post>
+
+
+
+
+
+
+
+
+
+
+
+<post>
+<author>bol_com</author>
+<title>reclame</title>
+<content>
+<photo>https://www.instagram.com/p/Cf8lgRwovwB/ /</photo>
+</content>
+<description>
+Bol.com oefent hier een vorm van reclame uit.
+</description>
+</post>
 
 </posts>
 
