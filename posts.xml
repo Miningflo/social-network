@@ -1,5 +1,5 @@
 <posts>
-    <post>
+    <!--<post>
         <author>EAThealthy_REPEAT</author>
         <title>EatBrownBread</title>
         <content>
@@ -15,7 +15,7 @@
 
             #advertentie
         </description>
-    </post>
+    </post>-->
     <post>
         <author>voedingsweetjes</author>
         <title>Nutri-score</title>
@@ -28,7 +28,7 @@
     </post>
 
 
-    <post>
+    <!--<post>
         <author>straling@school</author>
         <title>Het elektromagnetische spectrum</title>
         <content>
@@ -73,7 +73,7 @@
         <description>
             Uit welke kleuren bestaat wit licht? Ga op onderzoek, gebruik hiervoor een glazen prisma.
         </description>
-    </post>
+    </post>-->
 
     <post>
         <author>straling@school</author>
@@ -88,7 +88,7 @@
         </description>
     </post>
 
-    <post>
+    <!--<post>
         <author>straling@school</author>
         <title>Medische beeldvorming</title>
         <content>
@@ -195,16 +195,16 @@
         <description>
             Mayonaise kun je supergemakkelijk zelf maken. Klink op de post voor het recept.
         </description>
-    </post>
+    </post>-->
 
     <post>
         <author>jeroenmeus</author>
-        <title>Gistwafels</title>
+        <title>Gist</title>
         <content>
-            <photo>https://i.imgur.com/cGw1JY5.jpg</photo>
+            <photo>https://images.poms.omroep.nl/image/979106.jpg</photo>
         </content>
         <description>
-            Gist heeft geen effect op het maken van wafels.
+            Gist heeft geen effect op het maken van brood.
         </description>
     </post>
 
